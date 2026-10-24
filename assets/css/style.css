@@ -48,7 +48,7 @@ h3{line-height:1.15;margin:0 0 10px;color:var(--navy)}
 .hero-art:before{content:"";display:none}
 .hero-art:after{content:"";display:none}
 .mascot-temp{display:none}
-.hero-sticker{position:static;display:block;background:transparent;border:0;box-shadow:none;border-radius:0;padding:0;margin:24px 0 0;font-family:"Arial","Brush Script MT","URW Chancery L",cursive;font-style:italic;font-weight:700;font-size:clamp(30px,3.6vw,48px);line-height:1.12;color:#fff;transform:rotate(-2deg);text-shadow:0 3px 14px rgba(0,0,0,.22)}
+.hero-sticker{position:static;display:block;background:transparent;border:0;box-shadow:none;border-radius:0;padding:0;margin:24px 0 0;font-family:"Segoe script","Brush Script MT","URW Chancery L",cursive;font-style:italic;font-weight:700;font-size:clamp(15px,3.6vw,24px);line-height:1.12;color:#fff;transform:rotate(-2deg);text-shadow:0 3px 14px rgba(0,0,0,.22)}
 .price-note{font-size:14px;color:var(--muted)}
 .section{padding:88px 0}
 .section-alt{background:var(--soft)}
