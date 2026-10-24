@@ -48,7 +48,7 @@ h3{line-height:1.15;margin:0 0 10px;color:var(--navy)}
 .hero-art:before{content:"";display:none}
 .hero-art:after{content:"";display:none}
 .mascot-temp{display:none}
-.hero-sticker{position:static;display:block;background:transparent;border:0;box-shadow:none;border-radius:0;padding:0;margin:24px 0 0;font-family:"Segoe Script","Brush Script MT","URW Chancery L",cursive;font-style:italic;font-weight:700;font-size:clamp(30px,3.6vw,48px);line-height:1.12;color:#fff;transform:rotate(-2deg);text-shadow:0 3px 14px rgba(0,0,0,.22)}
+.hero-sticker{position:static;display:block;background:transparent;border:0;box-shadow:none;border-radius:0;padding:0;margin:24px 0 0;font-family:"Arial","Brush Script MT","URW Chancery L",cursive;font-style:italic;font-weight:700;font-size:clamp(30px,3.6vw,48px);line-height:1.12;color:#fff;transform:rotate(-2deg);text-shadow:0 3px 14px rgba(0,0,0,.22)}
 .price-note{font-size:14px;color:var(--muted)}
 .section{padding:88px 0}
 .section-alt{background:var(--soft)}
@@ -73,7 +73,7 @@ h3{line-height:1.15;margin:0 0 10px;color:var(--navy)}
 .country-card{padding:18px;transition:.2s;text-decoration:none;display:flex;flex-direction:column;align-items:center;text-align:center;position:relative;overflow:hidden;min-height:250px;background-size:cover;background-position:center;color:#fff;border:0;isolation:isolate}.country-card:before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(4,48,57,.12),rgba(4,48,57,.76));z-index:-1}
 .country-card:hover{transform:translateY(-4px);box-shadow:var(--shadow)}
 .country-flag{font-size:28px}
-.country-card h3{margin:8px 0 4px;background:#087080;color:#fff;padding:8px 18px;border-radius:5px 13px 4px 12px;transform:rotate(-1.5deg);font-family:"Segoe Script","Brush Script MT",cursive;font-weight:700;box-shadow:0 5px 14px rgba(0,0,0,.12)}
+.country-card h3{margin:8px 0 4px;background:#087080;color:#fff;padding:8px 18px;border-radius:5px 13px 4px 12px;transform:rotate(-1.5deg);font-family:"Arial","Brush Script MT",cursive;font-weight:700;box-shadow:0 5px 14px rgba(0,0,0,.12)}
 .country-card p{margin:0;color:#fff;font-size:13px}
 .country-card strong{display:block;margin-top:8px;color:#ffd09a}.country-card .country-flag{width:62px;height:62px;display:flex;align-items:center;justify-content:center;border-radius:50%;background:#fff;border:3px solid #fff;box-shadow:0 4px 16px rgba(0,0,0,.22);font-size:35px;margin-bottom:4px}.country-card .country-link{margin-top:auto;color:#fff;font-weight:700}
 .country-link{display:inline-block;margin-top:10px;font-weight:900;color:var(--teal)}
